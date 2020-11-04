@@ -1,4 +1,7 @@
-.title {
-  font-size: 14px;
-  color: blue;
-}
+/*
+ * This is a manifest file that'll be compiled into email.css, which will include all the files
+ * listed below.
+ *
+ *
+ *= require "./_email"
+ */
