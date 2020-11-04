@@ -1,1 +1,0 @@
-# actionmailer_example
